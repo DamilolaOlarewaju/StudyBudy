@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy",
+  "description": "Elite academic tutor and exam coach for MIVA Open University students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
